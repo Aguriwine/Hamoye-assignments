@@ -4,4 +4,8 @@ from math import log10
 
 x=50 
 y=math.log10(x)
-print(y)
+
+b=81
+a=math.sqrt(b)
+
+print(a)
