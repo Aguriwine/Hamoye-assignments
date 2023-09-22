@@ -8,4 +8,8 @@ y=math.log10(x)
 b=81
 a=math.sqrt(b)
 
-print(a)
+
+h=90
+k=math.cos(h)
+
+print(k)
